@@ -19,5 +19,5 @@ export const SOCIAL_LINKS = {
 	linkedin: "https://www.linkedin.com/in/sfroehner/",
 	goodreads: "https://www.goodreads.com/user/show/77700601-stephanie",
   instagram: "https://www.instagram.com/froehner/",
-	email: "me@example.com",
+	email: "hey@stephaniefroehner.com",
 };

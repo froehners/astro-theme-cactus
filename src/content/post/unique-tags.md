@@ -1,7 +1,7 @@
 ---
 title: "Exploring How to Recommend IP Protection"
 publishDate: "30 January 2023"
-description: "Protecting Intellectual Property is confusing and time-consuming. Most people don’t know what they need to protect their art or business and can get lost in all the different opinions online. We are reevaluating the language we use and the support we provide when our customers say, Help me decide."
+description: "Most people don’t know what they need to protect their art or business and can get lost in all the different opinions online."
 tags: ["UX", "Customer Research", "Prototyping", "test", "bloG", "Test", "BLOG"]
 ---
 

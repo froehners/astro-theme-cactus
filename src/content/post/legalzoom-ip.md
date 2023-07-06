@@ -34,6 +34,7 @@ tags: ["UX", "Customer Research", "Prototyping"]
 ### Behavioral Design Workshop Evaluation
 
 #### Step 1: The Quiz
+![Original Experience Step 1](./og-q1.png.jpg)
 - Currently an unordered group of 9 items.
     - Studies have shown people make decisions easier with less choices.
     - It’s difficult to predict content when there is no order.

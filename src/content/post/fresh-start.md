@@ -1,7 +1,7 @@
 ---
 title: "A fresh start"
 publishDate: "07 July 2023"
-description: "A quick post about the redesign process"
+description: "A quick post about launching a site directly from Astro with Netlify"
 tags: ["Personal", "Blog"]
 ---
 

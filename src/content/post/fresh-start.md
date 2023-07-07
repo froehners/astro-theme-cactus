@@ -1,11 +1,11 @@
 ---
 title: "A fresh start"
 publishDate: "07 July 2023"
-description: "A quick post about launching a site directly from Astro with Netlify"
+description: "A quick note about launching a site directly from Astro with Netlify"
 tags: ["Personal", "Blog"]
 ---
 
-## Finally updating my portfolio -- for real this time!
+# Finally updating my portfolio -- for real this time!
 
 I haven't had a major overhaul on my public-facing portfolio in YEARS, 4ish? It wasn't really a huge problem and I was able to get 2 great jobs with it. 
 
@@ -23,4 +23,5 @@ So far Tailwind CSS and Markup have been really easy to get used to and I don't 
 
 ________________________________
 
-** Quick recommendation:** Nimona on Netflix! I laughed. I cried. It was very cute.
+# Quick recommendation:
+**Nimona** on Netflix! I laughed. I cried. It was very cute (and metal).

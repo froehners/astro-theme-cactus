@@ -17,7 +17,8 @@ In the past I've used Stackbit to generate a site and then modified it to my lik
 
 I googled a bunch of ways to get a new template on Netlify, I opened every link for a template... I was looking for something FAST, lightweight and easy enough that I didn't have to spend a ton of time getting it up or learning, but different enough that it was fun to work on and learn. Then I just deployed one. 
 
-It was SO easy to deploy directly from [Astro's theme page](https://astro.build/themes). I remember sitting on my couch late one night and tipping my head back and laughing because I was feeling totally lost until the moment it was literally NO BIG DEAL to have a brand new site to start editing. 
+![Astro screenshot](./astroclip.jpg "Actions on Astro's theme page")
+It was SO easy to deploy directly from [Astro's theme page](https://astro.build/themes/details/astro-cactus/) - literally 1 click! I remember sitting on my couch late one night and tilting my head back and laughing because I was feeling totally lost until it was just NO BIG DEAL to have a brand new site to start editing. 
 
 So far Tailwind CSS and Markup have been really easy to get used to and I don't really miss having a CMS layer to my website. Easy!!
 

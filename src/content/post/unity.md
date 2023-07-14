@@ -6,7 +6,7 @@ tags: ["Design Lead", "Enterprise", "Design System", "Product Design"]
 ---
 
 # Background
-Unity is an Enterprise Resource Planning (ERP) System used by Traffic Management, Inc. (TMI). It is a central data hub for their entire business and connects to a companion iPad app for field employees.
+Unity is a central data hub for TMI's entire business and connects to a companion iPad app for field employees.
 
 ## Problem
 TMI was using a Microsoft Access application to manage all their resources. It was slow and clunky after being developed over the life of the company; it could no longer scale with the growing business.

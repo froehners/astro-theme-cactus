@@ -15,11 +15,11 @@
 	:root.dark {
 		color-scheme: dark;
 		--theme-bg: #1d1f21;
-		--theme-link: #d480aa;
+		--theme-link: #FA8E87;
 		--theme-text: #c9cacc;
-		--theme-accent: #2bbc89;
+		--theme-accent: #2CF6B3;
 		--theme-accent-2: #eee;
-		--theme-quote: #ccffb6;
+		--theme-quote: #FFBF00;
 		--theme-menu-bg: rgb(29 31 33 / 0.85);
 	}
 

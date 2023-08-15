@@ -112,7 +112,7 @@ export default {
 					},
 				},
 				".title": {
-					"@apply text-2xl font-display text-accent-2": {},
+					"@apply text-3xl font-display text-accent-2": {},
 				},
 			});
 		}),

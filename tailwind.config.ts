@@ -27,7 +27,9 @@ export default {
 				"accent-2": "var(--theme-accent-2)",
 			},
 			fontFamily: {
-				// Add any custom fonts here
+				display: ['Caprasimo', 'serif'],
+        body: ['Barlow', 'sans-serif'],
+        // Add any custom fonts here
 				sans: [...fontFamily.sans],
 				serif: [...fontFamily.serif],
 			},

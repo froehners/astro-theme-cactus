@@ -1,7 +1,7 @@
 ---
 title: "Outreach Hub"
 publishDate: "14 August 2023"
-description: "Building a Hub for Outreach Specialists"
+description: "Building a Workflow Hub for Outreach Specialists"
 tags: ["Health Tech", "Enterprise", "Design lead"]
 
 ---

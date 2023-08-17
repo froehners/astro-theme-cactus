@@ -2,7 +2,7 @@
 title: "WellCast Youtube Channel for Teens"
 description: "WellCast was a twice-a-week animated show that explored the physical, mental and emotional paths to wellness. "
 publishDate: "2013"
-tags: ["Mahalo", "Content Strategy", "Media", "Audience Development]
+tags: ["Mahalo", "Content Strategy", "Media", "Audience Development"]
 ---
 
 # Background

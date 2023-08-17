@@ -32,6 +32,7 @@ Outreach Specialists document each interaction with a member in "Outreach Notes"
 - It just doesn't fit in with how we usually fram actions and sentences. An Outreach Specialist didn't call "No one" they called the member.
 
 ## Entity Relationship Modeling
+![Er Modeling Explanation](./outreach-outcomes/ermodeling.png)
 - Since the logic was broken and the technology was old, we decided rethink it entirely
 - ER modeling breaks systems/journeys down what is actually happening during outreach and the possible outcomes. Outreach Outcomes are *actually* more simple than it first appeared.
 - There are only 6 ways to conduct outreach: Phone call, meeting or visit, text, email, mail, or researching the member

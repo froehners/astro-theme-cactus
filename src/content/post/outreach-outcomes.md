@@ -15,4 +15,4 @@ tags: ["Cityblock Health", "Design Lead", "SaaS", "Data Strategy"]
 # Design Process
 
 - Timeline: 
-- Team Composition
+- Team Composition:

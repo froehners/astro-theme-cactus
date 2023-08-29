@@ -8,6 +8,8 @@ tags: ["Cityblock Health", "Design Lead", "SaaS", "Data Strategy"]
 
 # Background
 Outreach Specialists document each interaction with a member in "Outreach Notes", which had a dropdown for "outcome" of the outreach session.
+
+![Original Outreach / Intake Note](./outreach-outcomes/original.png "Original Outreach Note")
 - I noticed they used "other" for a variety of outcomes (like mail, continuous ringing, and other hyper-specific outcomes)
 - The outcomes were too unspecific - leads wanted better insights into why members were not consenting.
 - The outcome field was dynamic, but unintuitive

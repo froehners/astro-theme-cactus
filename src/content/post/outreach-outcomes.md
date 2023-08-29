@@ -27,9 +27,6 @@ When I joined, Outreach Specialists had to write two notes - one for the timelin
 ## Objectives 
 
 # Exploration
-src/content/post/
-![Original Outreach / Intake Note](./outreach-outcomes/original.png "Original Outreach Note")
-
 
 ## Data and Stakeholder feedback
 

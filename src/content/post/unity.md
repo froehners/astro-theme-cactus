@@ -74,4 +74,6 @@ We designed for accessibility and listened to user needs to improve the experien
 Modernizing the technology (Google for Work authentication, cloud-based hosting, responsive web components) made data more accessible and usable in and out of the offices.
 
 - **Date:** 2015 - 2017
+- **Role:** Design team lead and product designer
 - **Team composition:** 3 designers, 5 engineers, 1 project manager
+- **Company:** FiveSixTwo, Inc.

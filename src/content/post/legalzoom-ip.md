@@ -1,6 +1,6 @@
 ---
 title: "Exploring How to Recommend IP Protection"
-publishDate: "30 January 2023"
+publishDate: "1 January 2020"
 description: "Most people don’t know what they need to protect their art or business and can get lost in all the different opinions online."
 tags: ["LegalZoom", "UX Design", "Customer Research", "Prototyping"]
 ---
@@ -119,13 +119,13 @@ I thought these results were wild!
 
 Version 1's hypothesis of combining cards was considered a "do no harm" win to the team, but the results were still inaccurate and people were overly confident. I feel it was oversimplified and too easy to complete. Adding descriptions only helped those who read them (and lol, no one does that, they just skipped around to what could be "close enough").
 
-Version 2's partitioning to reduce errors is on the right track, but needs to be further proven with a larger sample size. I think it's very promising to ask people to slow down in order for them to get a personalized recommendation. Next iteration will explore different ways to partition the choices without being overly technical.
+Version 2's partitioning to reduce errors is on the right track, but needs to be further proven with a larger sample size. I think it's very promising to ask people to slow down in order for them to get a personalized recommendation. The next iteration would have explored different ways to partition the choices without being overly technical.
 
-I plan to continue to working on both versions until we have strong experiences that balance confidence, ease of use and accurate product recommendations - plus a Recommendation page that demonstrates that LegalZoom is the right provider for IP protection.
+I planned to continue to working on both versions until we have strong experiences that balance confidence, ease of use and accurate product recommendations - plus a Recommendation page that demonstrates that LegalZoom is the right provider for IP protection.
 
-Recommendation page didn't provide content that would allow people to validate the recommendation and catch their errors. Next iterations will experiment with content like FAQs, statistics, real-life examples or case studies.
+**Recommendation page** didn't provide content that would allow people to validate the recommendation and catch their errors. Next iterations will experiment with content like FAQs, statistics, real-life examples or case studies. The next rounds of unmoderated and moderated tests were to include broader audiences. 
 
-We'll expand the next rounds of unmoderated and moderated tests to include more audiences. When the team is satisfied with the copy/experience, a visual designer will make sure everything is slick and ready for development and A/B testing.
-
-- **Timeline:** ~4 weeks in Q3 2020, Phase 2 is scheduled for Q1 2021
+- **Timeline:** ~4 weeks in Q3 2020, Phase 2 *was* scheduled for Q1 2021, but you know how these things go...
+- **Role:** UX designer
 - **Team composition:** Copywriter, attorney, product marketer and 2 designers
+- **Company:** LegalZoom

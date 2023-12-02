@@ -43,7 +43,7 @@ const { headings } = await post.render();
 			!!headings.length && (
 				<aside class="sticky top-20 order-2 -me-32 hidden basis-64 lg:block">
 					<h2 class="font-display">Table of Contents</h2>
-					<ul class="mt-0.5 text-xs">
+					<ul class="mt-0.5 text-sm">
 						{headings.map(({ depth, slug, text }) => (
 							<li class="line-clamp-2 hover:text-accent">
 								<a

@@ -28,7 +28,8 @@ My visual design roles in this project include designing thumbnails for each You
 
 ![The tumblr page](./WC_tumblr.webp "Homepage")
 
-I still get emails and DMs from folks asking about the show. If you're a Wellcaster reading this, thank you for your support! We're so grateful to have found you. Unfortunately, the team behind the show do not own or manage the YouTube channel and we will not be coming back. 
+# A message to our Wellcasters
+I still get emails and DMs from folks around the world asking about this show. If you're a Wellcaster reading this, thank you for your support! We're so grateful to have found you. Unfortunately, the creative team behind the show do not own or manage the YouTube channel and we will not be coming back to it. We'll never forget how much fun we had making a show for you though! 
 
 
 - **Date:** 2013

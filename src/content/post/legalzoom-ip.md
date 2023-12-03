@@ -10,19 +10,19 @@ tags: ["LegalZoom", "UX Design", "Customer Research", "Prototyping"]
 
 - Broadly, our research has shown people want quizzes or recommendation wizards to narrow down the different legal services they may need.
 - For Intellectual Property (IP) LegalZoom has a simple 1-question Help me decide tool on the IP Category page. Testing participants would often be excited to see the CTA button, but found the actual experience and recommendations disappointing.
-- This work was done in concert with a case study project for Smashing Magazine Behavioral Design Workshop (highly recommended!)
+- This work was done in concert with a case study project for [Smashing Magazine Behavioral Design Workshop](https://smashingconf.com/online-workshops/workshops/behavioral-design-susan-guthrie-weinschenk) (highly recommended!)
 
 ## Goals & Requirements
 
 ### Customer Goals
-- Small business owners: protect their business name and products, be legally compliant, and set up their business correctly.
-- Musicians, artists & writers: protect their songs, scripts, books, etc. and prevent others from copying or profiting off their work.
-- Inventors: claim their new product, invest in protecting their work now, for future benefits/gains.
+- **Small business owners:** protect their business name and products, be legally compliant, and set up their business correctly.
+- **Musicians, artists & writers:** protect their songs, scripts, books, etc. and prevent others from copying or profiting off their work.
+- **Inventors:** claim their new product, invest in protecting their work now, for future benefits/gains.
 
 ### Business Goals
-- Customer understands the product offering and purchases the correct service for their needs.
-- Customer is able to purchase & complete their application without Customer Care assistance.
-- Customer purchases Attorney Assist if they have any unanswered legal questions.
+- Customer understands the product offering and **purchases the correct service** for their needs.
+- Customer is able to purchase & complete their application **without Customer Care assistance**.
+- Customer **purchases Attorney Assist** if they have any unanswered legal questions.
 
 ### Redesign Constraints
 - Conserve dev resources. Aim for copy and image changes.
@@ -38,7 +38,7 @@ tags: ["LegalZoom", "UX Design", "Customer Research", "Prototyping"]
 - Currently an unordered group of 9 items.
     - Studies have shown people make decisions easier with less choices.
     - It’s difficult to predict content when there is no order.
-- Icons have inconsistent levels of complexity. The more complicated icons are too difficult to break down into geons, which would allow customer brains to recognize the icon quicker.
+- Icons have inconsistent levels of complexity. The more complicated icons are too difficult to break down into [geons](https://en.wikipedia.org/wiki/Geon_(psychology)#:\~:text=Geons%20are%20the%20simple%202D,of%20objects%20in%20the%20brain.), which would allow customer brains to recognize the icon quicker.
 - Language may not match how customers classify their work.
 
 #### Step 2: Recommendation Page
@@ -76,7 +76,7 @@ I picked about 20 commonly protected works (e.g. photograph, process, book, inve
 ![Open Card Sorting](./cs-open.png)
 - Participants were tasked to create and name their own categories.
 - "Art" cards were overwhelmingly the easiest for folks categorize. Second was "business" - sometimes called “branding.”
-- Seeing all the cards in groups helped solidify their classification (like partitioning/the power of groups from the workshop!).
+- Seeing all the cards in groups helped solidify their classification *(like partitioning/the power of groups from the workshop!)*.
 
 #### Phase 2: Hybrid
 ![Hybrid Card Sorting](./cs-hybrid.png)
@@ -89,14 +89,14 @@ The variations are content-driven; the team decided to use the existing question
 #### Version 1: Optimized
 ![Version 1](./HMD-V1.png)
 - Keep the 1-question flow, but reduce the number of options to broad categories and add descriptions.
-- Hypotheses:
+- **Hypotheses:**
     - Participants will be more successful if we reduce the number of options. The legal team and copywriters felt comfortable combining the “Art” choices since most of the card sorting participants always grouped those together.
     - Educating the users with descriptions and friendlier language will clarify the options. The confusing cards from the card sorting study were added as examples in the descriptions.
 
 #### Version 2: Experimental
 ![Version 2](./HMD-V2.png)
 - Make a 2-question flow, partition people into roles (business owner, artist, or inventor) and have more specific choices on the second screen.
-- Hypotheses:
+- **Hypotheses:**
     - If we use nouns to trigger group membership, users will feel more motivated to complete the first question. Adding a second, more meaningful question will improve the inconsequential feeling of the 1-question live experience.
     - We can reduce errors by utilizing the power of groups/partitioning and encourage people to think more about their selection. This is also an opportunity to add more choices - as card-sorting participants understood IP better when they could see the groups.
 
@@ -109,17 +109,17 @@ The variations are content-driven; the team decided to use the existing question
 ### Unmoderated Tests
 First round is focused on our largest audience: future small business owners. The pages before and after the “Help me decide” experience - including the results pages were identical. Participants only saw one version and the results from the two studies were compared.
 
-- Version 1 participants had a very high NPS score and scored their confidence in the results as 5/5. However, only 3/7 got a recommendation for the correct IP protection
-- Version 2's NPS was 30 points lower and an average of 4.6 confidence score. Interestingly, all the participants chose the correct service!!!
-- Recommendation page content isn’t enough to convince people these recommendations have any authority. People want more.
+- **Version 1** participants had a very high NPS score and scored their confidence in the results as 5/5. However, only 3/7 got a recommendation for the correct IP protection
+- **Version 2**'s NPS was 30 points lower and an average of 4.6 confidence score. Interestingly, all the participants chose the correct service!!!
+- **Recommendation page** content isn’t enough to convince people these recommendations have any authority. People want more.
 
 # Reflection & Next Steps
 
 I thought these results were wild!
 
-Version 1's hypothesis of combining cards was considered a "do no harm" win to the team, but the results were still inaccurate and people were overly confident. I feel it was oversimplified and too easy to complete. Adding descriptions only helped those who read them (and lol, no one does that, they just skipped around to what could be "close enough").
+**Version 1**'s hypothesis of combining cards was considered a "do no harm" win to the team, but the results were still inaccurate and people were overly confident. I feel it was oversimplified and too easy to complete. Adding descriptions only helped those who read them (and lol, no one does that, they just skipped around to what could be "close enough").
 
-Version 2's partitioning to reduce errors is on the right track, but needs to be further proven with a larger sample size. I think it's very promising to ask people to slow down in order for them to get a personalized recommendation. The next iteration would have explored different ways to partition the choices without being overly technical.
+**Version 2**'s partitioning to reduce errors is on the right track, but needs to be further proven with a larger sample size. I think it's very promising to ask people to slow down in order for them to get a personalized recommendation. The next iteration would have explored different ways to partition the choices without being overly technical.
 
 I planned to continue to working on both versions until we have strong experiences that balance confidence, ease of use and accurate product recommendations - plus a Recommendation page that demonstrates that LegalZoom is the right provider for IP protection.
 

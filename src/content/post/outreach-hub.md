@@ -1,5 +1,5 @@
 ---
-title: "Outreach Hub"
+title: "Outreach Hub - WIP"
 publishDate: "14 August 2023"
 description: "Building a new workflow hub for outreach specialists in an existing tool."
 tags: ["Cityblock Health", "Design Lead", "SaaS", "Onboarding"]
@@ -13,14 +13,3 @@ The Outreach page is the new foundation for Cityblock's outreach process, improv
 ## Goals 
 
 The Outreach hub needs to connect with existing prioritization tools and relevant data sources (claims, electronic health records, pharmacy data, social care and entitlements, etc.) and to our internal outreach model (which includes data like mode of outreach, time of day, and likelihood to consent). It should drive next-steps for any team member to pick up and handoff a new member.
-
-## Objectives 
-
-# Design Process
-
-# Launch
-
-# Reflection and Next Steps
-
-- Timeline: 
-- Team Composition

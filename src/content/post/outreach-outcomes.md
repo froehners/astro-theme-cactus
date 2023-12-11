@@ -33,6 +33,7 @@ When I joined, Outreach Specialists had to write two notes - one for the timelin
 - Outreach Specialists found the tool to be annoying to use, it didn't match how they worked
 
 ## Mapping
+![Diagram showing the outreach outcomes](./outreach-outcomes/exp-map.png)
 - Complicated!
 - Lots of overlap on the outcomes
 - A bigger problem emberges: the logic for the outcomes is based on the participant, not the contact type. This is often incorrect and is limiting. Also, most participants have the same or similar outcomes, making the data not very useful.

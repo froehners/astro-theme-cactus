@@ -5,7 +5,7 @@ publishDate: "26 Jun 2024"
 tags: ["personal", "blog"]
 ---
 
-![Keyboard out of the box, resting on the box’s lid](/blog/WorkLouder.jpeg) 
+![Keyboard out of the box, resting on the box’s lid](./blog/WorkLouder.jpeg) 
 
 I was brand new to custom keyboards and their setup was easy! Great little afternoon activity. 
 

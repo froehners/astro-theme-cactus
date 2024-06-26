@@ -26,4 +26,4 @@ Since this was a collab, it introduced new users (me) to kind of a nerdy little 
 - I wasn’t sure how I wanted to lay my keyboard out - I used a grid post-it to draw. They could have linked to a FigJam board to help plan it out! Their starter setup was decent though.
 - Include the keycap tool, and make it Work Louder × Figma branded!
 
-[Get yours here](https://worklouder.cc/figma/)
+[Get your own here!](https://worklouder.cc/figma/ target="_blank")

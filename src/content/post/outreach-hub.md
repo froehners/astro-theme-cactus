@@ -49,6 +49,12 @@ Simplify workflows for outreach specialists, allow new employees to get up to sp
 # MVP
 
 ## Feature Prioritization
+1. **Validate and streamline workflows with Stakeholders** - what work is actually necessary, what can be simplified across markets. Stakeholders didn't know all the complexity across markets and workflows. We aligned on the outreach needs. They were close to the existing flow, but we agreed to do less manual tracking wherever possible.
+2. **Where are the biggest inefficiencies?** Double documentation and documenting after the call were top of mind. Also all of the different tabs and clicking within Commons.
+3. **How can we get better data while reducing user effort?** New KPIs: # of tabs open and # of Sheets/market. 
+4. **Work with Eng partner (Dan) to find the easy wins** - He wrote a script to duplicate the notes so Commons still worked, but the user could do half the work. We did this before actually building a proper fix so we can immediately reduce the work and build a little trust with the OSs. 
+5. **Rank features by asking the OS’s,** “What is the worst part of your job?” Attitude impacts the outreach success, so the better moods we can get the OSs in, the more effective they'll be. (Also, it's a nice thing to do) 
+
 ## Rollout
 
 # Impact and Additional Learnings

@@ -55,19 +55,29 @@ Since we wanted a centralized outreach team and process, I had to understand wha
     - The worst part of conducting outreach is the monotony (lots of ringing with no answers)
     - Often new OSs are more successful than more experienced ones, but it takes time to learn the system and the script
 - **OSs need to have energy and enthusiasm when they talk to members**
->“I think her overwhelming positive attitude made me just actually join before I could get off the phone with her because she was just too nice. And you wouldn't want to be mean to her.” 
+>“I think her overwhelming positive attitude made me just actually join before I could get off the phone with her because she was just too nice. And you wouldn't want to be mean to her.”  
 *- Recently consented member*
 
-
-
 ## OS Leads and Stakeholder Interviews
+- **Biggest need: Integrated tools for tracking OS performance and smart campaign experimentation**
+    - They use a ton of Google sheets for tracking OS performance, but that data stays in Sheets.
+    - We need a tool that will pull in our data, claims/other medical data, and our internal research model to surface appropriate engagement tactics.
+    - We can also get smarter about our OS superpowers. Some leads *know* they have OSs that are really great at speaking to specific types of members (like pregnant people, the elderly, etc.). Integrating that data into the member-assignment model could heavily impact our efficiency and conversion rates! 
+    - OS performance is more complex than our tools can track right now.
+- **They want to be able to cut down on training time and remove the amount of decisions an OS has to make.**
+    - Clear workflows within Commons, so OSs always know what the next step is
+    - Reduce the OS mental load by providing scripts and tests (like flu shot campaigns)
+    - Relevant member information (what they might be struggling with the most)
+    - OSs need to be able to connect with a member. They don't necessarily need to be health professionals.
 
 ## Software research
 
 ### Commons
+
 ### Point of Sale Software
 
 # MVP
+The member’s outreach page is the base of the outreach and intake workflows in Commons. It contains shortcuts and widgets to facilitate easier outreach phone calls and member handoffs.   
 
 ## Feature Prioritization
 1. **Validate and streamline workflows with Stakeholders** - what work is actually necessary, what can be simplified across markets.  
@@ -78,6 +88,11 @@ Stakeholders didn't know all the complexity across markets and workflows. We ali
 5. **Rank features by asking the OS’s,** “What is the worst part of your job?” Attitude impacts the outreach success, so the better moods we can get the OSs in, the more effective they'll be (also, it's the nice thing to do) 
 
 ## Rollout
+Our team had 1 launch goal: Every OS tries it at least 1x in the first 2 weeks of release.  
+To get this done, we wanted to make the new page as approachable as possible, and make the product team as accessible as possible. It's hard to change your daily workflow when your performance metrics don't change.    
+1. Kickoff meeting with training materials
+2. Pendo tutorials and surveys
+3. Feedback Slack channel for all OSs - they need to have a voice!
 
 # Impact and Additional Learnings
 

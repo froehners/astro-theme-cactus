@@ -1,6 +1,6 @@
 ---
 title: "Outreach Hub"
-publishDate: "1 January 2022"
+publishDate: "1 October 2021"
 description: "Building a new workflow hub for outreach specialists in an existing tool."
 tags: ["Cityblock Health", "Design Lead", "SaaS", "Onboarding"]
 
@@ -36,8 +36,29 @@ Simplify workflows for outreach specialists, allow new employees to get up to sp
 - Adoption (this one's important - working outside of Commons is less safe, but also means we can’t learn as much from their usage)  
 
 # Discovery
+Since we wanted a centralized outreach team and process, I had to understand what tools and workflows they were using across markets. We wanted to launch an MVP quickly so we can start getting wins and learnings to build upon. 
 
 ## User Interviews + Shadowing Sessions
+- **Biggest need: accurate member information, faster**
+    -   It often takes more than one outreach session to consent a member, so the OS needs to be able to carry the previous conversation. Knowing the member's history shows legitimacy. 
+- **OSs use a lot of different tools and pages in Commons**
+    - All the different tools slow them down and makes them need to rely on memory (this allowed for a lot of differences between OSs and didn't allow for controlled experimentation within markets). 
+    - Commons had performance issues - it’s too slow to use in real-time
+    - They use the calling tool, a script document, tracking Sheets, research tools and notepads for documentation
+    - They also have to submit two notes within Commons: One Outreach note, and one Intake note.
+    - There is an intake checklist UI, but it is not accurate and not being used
+- **Consent conversations are not linear.** OSs often weave various parts of the intake process into natural conversation. 
+- Documentation and handoff is very labor-intensive. OSs try to keep calls as short as possible, so **essentially consent workflow happens twice - verbally with the member and then documenting it in the system.**
+- The gratification of helping members means the OSs do a lot of extra work without complaint. Their workflows were more inefficient than we realized.
+- **The emotional impact of outreach**
+    - The best part of an OS’s day is when they get to help (and consent) a member
+    - The worst part of conducting outreach is the monotony (lots of ringing with no answers)
+    - Often new OSs are more successful than more experienced ones, but it takes time to learn the system and the script
+- **OSs need to have energy and enthusiasm when they talk to members**
+>“I think her overwhelming positive attitude made me just actually join before I could get off the phone with her because she was just too nice. And you wouldn't want to be mean to her.” 
+*- Recently consented member*
+
+
 
 ## OS Leads and Stakeholder Interviews
 
@@ -49,11 +70,12 @@ Simplify workflows for outreach specialists, allow new employees to get up to sp
 # MVP
 
 ## Feature Prioritization
-1. **Validate and streamline workflows with Stakeholders** - what work is actually necessary, what can be simplified across markets. Stakeholders didn't know all the complexity across markets and workflows. We aligned on the outreach needs. They were close to the existing flow, but we agreed to do less manual tracking wherever possible.
-2. **Where are the biggest inefficiencies?** Double documentation and documenting after the call were top of mind. Also all of the different tabs and clicking within Commons.
+1. **Validate and streamline workflows with Stakeholders** - what work is actually necessary, what can be simplified across markets.  
+Stakeholders didn't know all the complexity across markets and workflows. We aligned on the outreach needs. They were close to the existing flow, but we agreed to do less manual tracking wherever possible.
+2. **Where are the biggest inefficiencies?** Like double documentation and all of the different tabs and clicking within Commons.
 3. **How can we get better data while reducing user effort?** New KPIs: # of tabs open and # of Sheets/market. 
-4. **Work with Eng partner (Dan) to find the easy wins** - He wrote a script to duplicate the notes so Commons still worked, but the user could do half the work. We did this before actually building a proper fix so we can immediately reduce the work and build a little trust with the OSs. 
-5. **Rank features by asking the OS’s,** “What is the worst part of your job?” Attitude impacts the outreach success, so the better moods we can get the OSs in, the more effective they'll be. (Also, it's a nice thing to do) 
+4. **Work with eng partner (Dan) to find the easy wins** - He wrote a script to duplicate the notes so Commons still worked, but the user could do half the work. We did this before actually building a proper fix so we can immediately reduce the work and build a little trust with the OSs. 
+5. **Rank features by asking the OS’s,** “What is the worst part of your job?” Attitude impacts the outreach success, so the better moods we can get the OSs in, the more effective they'll be (also, it's the nice thing to do) 
 
 ## Rollout
 

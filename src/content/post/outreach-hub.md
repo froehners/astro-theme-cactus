@@ -2,24 +2,12 @@
 title: "Outreach Hub"
 publishDate: "1 October 2021"
 description: "Building a new workflow hub for outreach specialists in an existing tool."
-tags: ["Cityblock Health", "Design Lead", "SaaS", "Onboarding"]
+tags: ["Cityblock Health", "Design Lead", "User Research", "SaaS", "Onboarding"]
 
 ---
 
 # Background
-Cityblock is a value-based healthcare company that’s focused on the Medicaid and dually eligible population. They serve those with the most complex needs, and often with the least resources, in the way they deserve to be treated—with respect, compassion, dignity, and time.
-
-## Users
-1. Outreach Specialists (OSs)
-2. Outreach Leads
-
-## Stakeholders
-Member Engagement and Operations leadership
-
-## Member Activation & Trust Team
-My Role: Lead designer (IC)
-My Squad: 1 engineer lead (Dan) 1 PM (Ari and then Bobbi)
-Support: Mike (research advisor and MA&T lead), Neves (design team lead) 
+Cityblock is a value-based healthcare company that’s focused on the Medicaid and dually eligible population. They serve those with the most complex needs, and often with the least resources, in the way they deserve to be treated—with respect, compassion, dignity, and time.  
 
 ## Problems
 - Cityblock members do not know that they have Cityblock’s coverage and need to be contacted and onboarded (“outreach” and “consented”). 
@@ -30,6 +18,15 @@ Support: Mike (research advisor and MA&T lead), Neves (design team lead)
     - OS leads needed more visibility into the work
 - Outreach had a workflow, but it was not integrated into Commons (Cityblock’s care system). They used too many tools to keep track of and had to duplicate work to hand-off a member. 
     - Commons is a healthcare platform, where the care team manages their members. The outreach team used it, but it wasn't built for their purposes.
+### Users  
+1. Outreach Specialists (OSs)  
+2. Outreach Leads  
+### Stakeholders
+The Head of Member Engagement and Operations leadership  
+### Member Activation & Trust Team  
+My Role: Lead designer (IC)  
+My Squad: 1 engineer lead (Dan) 1 PM (Ari and then Bobbi)  
+Support: Mike (research advisor and MA&T lead), Neves (design team lead)  
 
 ## Goals 
 **Meaningfully improve the efficiency of our engagement funnel**  
@@ -116,21 +113,20 @@ To get this done, we wanted to make the new page as approachable as possible, an
     - OSs felt ownership of the Outreach page, they referred to it as “our page”
     - We eliminated the need for ~5 Google Sheets/market, ~4 tabs for outreach sessions
 - **Leads were happy that the page decreased training time.** It also increased their confidence in new OSs and allowed them to be more focused on the human aspect of outreach.
-- **The learnings from this project drove incentive conversations with stakeholders.** We needed to address our performance metrics being in conflict with our company goals.
-
+- **The learnings from this project drove incentive conversations with stakeholders.** We needed to address our performance metrics being in conflict with our company goals.  
 ## KPIs
-- Increase conversion rate (specifically our highest need members)
+- **Increase conversion rate (specifically our highest need members)** 
     - We did increase conversion rate, but not for our highest need members
     - Our highest need members simply need more research and we need to incentivise that appropriately. 
-- Increase call volume
+- **Increase call volume** 
     - We significantly increased efficiency and OSs were able to increase their calls per day. 
     - We learned that call volume as the main OS performance indicator did not mean we consented more high-need members.
-- Reduce time spent on research
+- **Reduce time spent on research** 
     - Research on “easy” consents was reduced, but highest need members was not impacted by this.
     - Our highest need members require additional research, and we need to have the OSs that excel in research focus on these members! 
-- Adoption
+- **Adoption**
     - All the markets used the new page, new OSs used it exclusively and most old OSs used it too (I also reached out to any stragglers to understand more)
  
-#### References + Thanks:
-- Huge shoutout to the Member Activation and Trust Team <3
-- Kim D. was also an incredible resource! 
+#### My Thanks:
+- Huge shoutout to the MA&T Team <3
+- Kim D. and all the OSs and OS Leads that partnered with me for this - many thanks

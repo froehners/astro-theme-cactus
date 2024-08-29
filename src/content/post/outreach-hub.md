@@ -9,6 +9,18 @@ tags: ["Cityblock Health", "Design Lead", "SaaS", "Onboarding"]
 # Background
 Cityblock is a value-based healthcare company that’s focused on the Medicaid and dually eligible population. They serve those with the most complex needs, and often with the least resources, in the way they deserve to be treated—with respect, compassion, dignity, and time.
 
+## Users
+1. Outreach Specialists (OSs)
+2. Outreach Leads
+
+## Stakeholders
+Member Engagement and Operations leadership
+
+## Member Activation & Trust Team
+My Role: Lead designer (IC)
+My Squad: 1 engineer lead (Dan) 1 PM (Ari and then Bobbi)
+Support: Mike (research advisor and MA&T lead), Neves (design team lead) 
+
 ## Problems
 - Cityblock members do not know that they have Cityblock’s coverage and need to be contacted and onboarded (“outreach” and “consented”). 
     - Our members may be distrustful of us; we're often starting at zero with them. 
@@ -73,8 +85,13 @@ Since we wanted a centralized outreach team and process, I had to understand wha
 ## Software research
 
 ### Commons
+- Technically, Commons had most of what the OSs needed, but everything was on a different page, and due to the poor performance (it loaded lots of other data too), it couldn't be used on the phone.
+- OSs relied on their memory, not the data in front of them, to have a discussion with the members
 
 ### Point of Sale Software
+- Everything relevant is available on one page
+- Data collection is easy and standardized
+- We can Shorten the time it takes to consent a member by creating the documentation on the call; OSs could have a conversation with the member while also gathering accurate information.
 
 # MVP
 The member’s outreach page is the base of the outreach and intake workflows in Commons. It contains shortcuts and widgets to facilitate easier outreach phone calls and member handoffs.   
@@ -95,7 +112,25 @@ To get this done, we wanted to make the new page as approachable as possible, an
 3. Feedback Slack channel for all OSs - they need to have a voice!
 
 # Impact and Additional Learnings
+- **My wins:**
+    - OSs felt ownership of the Outreach page, they referred to it as “our page”
+    - We eliminated the need for ~5 Google Sheets/market, ~4 tabs for outreach sessions
+- **Leads were happy that the page decreased training time.** It also increased their confidence in new OSs and allowed them to be more focused on the human aspect of outreach.
+- **The learnings from this project drove incentive conversations with stakeholders.** We needed to address our performance metrics being in conflict with our company goals.
 
+## KPIs
+- Increase conversion rate (specifically our highest need members)
+    - We did increase conversion rate, but not for our highest need members
+    - Our highest need members simply need more research and we need to incentivise that appropriately. 
+- Increase call volume
+    - We significantly increased efficiency and OSs were able to increase their calls per day. 
+    - We learned that call volume as the main OS performance indicator did not mean we consented more high-need members.
+- Reduce time spent on research
+    - Research on “easy” consents was reduced, but highest need members was not impacted by this.
+    - Our highest need members require additional research, and we need to have the OSs that excel in research focus on these members! 
+- Adoption
+    - All the markets used the new page, new OSs used it exclusively and most old OSs used it too (I also reached out to any stragglers to understand more)
+ 
 #### References + Thanks:
 - Huge shoutout to the Member Activation and Trust Team <3
 - Kim D. was also an incredible resource! 

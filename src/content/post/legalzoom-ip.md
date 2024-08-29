@@ -2,7 +2,7 @@
 title: "Exploring How to Recommend IP Protection"
 publishDate: "1 January 2020"
 description: "Most people don’t know what they need to protect their art or business and can get lost in all the different opinions online."
-tags: ["LegalZoom", "UX Design", "Customer Research", "Prototyping"]
+tags: ["LegalZoom", "UX Design", "User Research", "Prototyping"]
 ---
 
 

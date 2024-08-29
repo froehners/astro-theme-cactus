@@ -86,8 +86,10 @@ Since we wanted a centralized outreach team and process, I had to understand wha
 - OSs relied on their memory, not the data in front of them, to have a discussion with the members
 
 ### Point of Sale Software
-[![Coffee POS on Dribbble](./outreach-hub/POS 1.png)](https://dribbble.com/shots/15629660-Kopinan-POS-System-for-Coffee-Shop)
-[![Toast Central](./outreach-hub/POS 2.png)](https://posquote.com/best-restaurant-management-system-online-pos-posquote/)
+![Coffee POS on Dribbble](./outreach-hub/POS1.png)  
+[Source](https://dribbble.com/shots/15629660-Kopinan-POS-System-for-Coffee-Shop)  
+![Toast Central](./outreach-hub/POS2.png)  
+[Source](https://posquote.com/best-restaurant-management-system-online-pos-posquote)  
 - Everything relevant is available on one page
 - Data collection is easy and standardized
 - We can Shorten the time it takes to consent a member by creating the documentation on the call; OSs could have a conversation with the member while also gathering accurate information.

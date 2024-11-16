@@ -43,7 +43,7 @@ When I joined, Outreach Specialists had to write two notes - one for the timelin
 ![Every possible outcome for each modality - each column is the same](./outreach-outcomes/Sheet1.png)
 - A lot of the options, while dynamic, were also irrelevant and complicating the task
 ![Phone call outcomes based on who - many are the same](./outreach-outcomes/Sheet2.png)
-- It just doesn't fit in with how we usually fram actions and sentences. An Outreach Specialist didn't call "No one" they called the member.
+- It just doesn't fit in with how we usually frame actions and sentences. An Outreach Specialist didn't call "No one" they called the member.
 
 ## Entity Relationship Modeling
 ![Er Modeling Explanation](./outreach-outcomes/ermodeling.png)
